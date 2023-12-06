@@ -13,4 +13,7 @@ export class HeroesComponent {
     name:"Windstorm"
   }
 
+
+blah=""
+
 }
