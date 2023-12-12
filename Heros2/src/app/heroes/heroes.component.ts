@@ -9,15 +9,15 @@ import { HEROES } from '../mock-heroes';
 })
 export class HeroesComponent {
 
-heroes=HEROES
+  heroes = HEROES
 
-selectedHero?:Hero
+  selectedHero?: Hero
 
-onSelect(hero:Hero):void{
- this.selectedHero=hero
+  onSelect(hero: Hero): void {
+    this.selectedHero = hero
+  }
+
+
 }
 
-
-}
-
-
+//grroup project
