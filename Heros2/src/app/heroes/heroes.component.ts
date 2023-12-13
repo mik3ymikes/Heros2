@@ -20,4 +20,3 @@ export class HeroesComponent {
 
 }
 
-//working group project
